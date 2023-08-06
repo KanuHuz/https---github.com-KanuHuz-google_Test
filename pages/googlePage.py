@@ -1,1 +1,1 @@
-# Page use for a further implementation of POM model. 
+# Page used for a further implementation of POM model. 
